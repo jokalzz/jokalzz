@@ -1,92 +1,106 @@
 <h1 align="center">
-  Hi 👋, I'm Jonathan Kaligis
+  Jonathan Kaligis
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;AI+%26+IoT+Enthusiast;Machine+Learning+Explorer;Full+Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Researcher;IoT-Based+Intelligent+Systems;Knowledge+Representation+Enthusiast;Informatics+Engineering+Student" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 Informatics Engineering student at **Universitas Sam Ratulangi (Batch 2023)**  
-🤖 Passionate about **AI, IoT, Machine Learning, and Web Development**  
-🌱 Love building real-world systems for **agriculture, environment, and smart solutions**  
+## 🧠 Research Profile
+🎓 **Informatics Engineering Student** — Universitas Sam Ratulangi (2023)  
+📌 Research interests lie at the intersection of **Artificial Intelligence**, **IoT**, and **Data-Driven Decision Systems**, with practical applications in **smart agriculture** and **environmental sustainability**.
+
+I am particularly interested in:
+- Artificial Intelligence & Machine Learning  
+- Knowledge Representation & Intelligent Reasoning  
+- IoT-based Data Acquisition Systems  
+- Decision Support Systems for Agriculture & Environment  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research & Academic Projects
 
-### 💻 Languages
+### 🌾 AI & IoT-Based Soil Fertility Detection  
+**Case Study: Rice Cultivation in Tompaso Area**  
+- Designed an IoT system using ESP32 with pH, moisture, and NPK sensors  
+- Processed real-time sensor data for soil condition analysis  
+- Applied machine learning models to classify soil fertility levels  
+- Research-oriented approach suitable for academic publication  
+
+### 🤖 AI Chatbot for Environmental Protection  
+- Developed a domain-specific AI chatbot using free AI APIs  
+- Focused on environmental awareness and forest protection  
+- Implemented constrained knowledge scope for accurate responses  
+
+### 📊 Knowledge Representation for Agricultural Systems  
+- Modeled soil fertility knowledge using rule-based representations  
+- Explored symbolic reasoning for agricultural decision-making  
+- Integrated sensor data with AI inference mechanisms  
+
+---
+
+## 🛠️ Research-Oriented Tech Stack
+
+### 🧪 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🤖 AI & IoT
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 IoT & Embedded Systems
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🗄️ Database & Tools
+### 🗄️ Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-🌾 **IoT & AI-Based Soil Fertility Detection System**  
-> Smart agriculture system using ESP32, soil sensors, and AI classification  
-> Applied for rice cultivation optimization in Tompaso area  
-
-🤖 **Environmental Protection AI Chatbot**  
-> AI-powered chatbot integrated with free AI APIs  
-> Focused on environmental & forest protection education  
-
-🌐 **Personal Portfolio Website**  
-> Clean and responsive portfolio showcasing projects & skills  
-
-🐟 **Fish Auction E-Commerce System (GEMASTIK)**  
-> Digital auction platform supporting blue economy & local fishermen  
+## 📚 Publications & Academic Writing
+- Scientific journal on **AI & IoT-based Soil Fertility Detection**  
+- Contributor to academic book on **Digital Image Processing**  
+- Experience in structured research documentation & proposal writing  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Research Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jokalzz&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokalzz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Research Goals
+- Publish AI & IoT research in national / international journals  
+- Develop intelligent decision systems for real-world problems  
+- Collaborate on interdisciplinary AI research projects  
+
+---
+
+## 📫 Academic Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/jokaligis">
+    <img src="https://img.shields.io/badge/LinkedIn-Academic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="mailto:jokakalzz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Researcher-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *Always learning, always building. Let's collaborate!*
+⭐ *Research-driven development with real-world impact.*
