@@ -3,51 +3,57 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Researcher;IoT-Based+Intelligent+Systems;Knowledge+Representation+Enthusiast;Informatics+Engineering+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4200&pause=1200&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Researcher;IoT-Based+Intelligent+Systems;Knowledge+Representation+%26+Reasoning;Informatics+Engineering+Student" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jokalzz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
 ## 🧠 Research Profile
 🎓 **Informatics Engineering Student** — Universitas Sam Ratulangi (2023)  
-📌 Research interests lie at the intersection of **Artificial Intelligence**, **IoT**, and **Data-Driven Decision Systems**, with practical applications in **smart agriculture** and **environmental sustainability**.
+🔍 Passionate about building **intelligent, data-driven systems** that combine **Artificial Intelligence**, **IoT**, and **knowledge-based reasoning** to solve real-world problems.
 
-I am particularly interested in:
+My research focus lies in applying AI technologies for **smart agriculture**, **environmental sustainability**, and **decision support systems**, with an emphasis on systems that are **practical, explainable, and impactful**.
+
+### Core Interests
 - Artificial Intelligence & Machine Learning  
 - Knowledge Representation & Intelligent Reasoning  
-- IoT-based Data Acquisition Systems  
+- IoT-Based Data Acquisition and Monitoring  
 - Decision Support Systems for Agriculture & Environment  
 
 ---
 
 ## 🔬 Research & Academic Projects
 
-### 🌾 AI & IoT-Based Soil Fertility Detection  
+### 🌾 AI & IoT-Based Soil Fertility Intelligence  
 **Case Study: Rice Cultivation in Tompaso Area**  
-- Designed an IoT system using ESP32 with pH, moisture, and NPK sensors  
-- Processed real-time sensor data for soil condition analysis  
+- Designed an IoT sensing architecture using **ESP32** with soil pH, moisture, and NPK sensors  
+- Collected and processed real-time environmental data  
 - Applied machine learning models to classify soil fertility levels  
-- Research-oriented approach suitable for academic publication  
+- Developed with a **research-oriented methodology** suitable for academic publication  
 
-### 🤖 AI Chatbot for Environmental Protection  
-- Developed a domain-specific AI chatbot using free AI APIs  
-- Focused on environmental awareness and forest protection  
-- Implemented constrained knowledge scope for accurate responses  
+### 🤖 Domain-Specific AI Chatbot for Environmental Awareness  
+- Built an AI chatbot with **restricted knowledge scope** for accuracy and relevance  
+- Focused on environmental education and forest protection  
+- Integrated free AI APIs into a web-based conversational system  
 
-### 📊 Knowledge Representation for Agricultural Systems  
-- Modeled soil fertility knowledge using rule-based representations  
-- Explored symbolic reasoning for agricultural decision-making  
-- Integrated sensor data with AI inference mechanisms  
+### 📊 Knowledge Representation for Smart Agriculture  
+- Modeled soil fertility knowledge using **rule-based systems**  
+- Explored symbolic reasoning approaches for agricultural decision-making  
+- Combined sensor data with AI inference mechanisms  
 
 ---
 
 ## 🛠️ Research-Oriented Tech Stack
 
-### 🧪 AI & Data Science
+### 🧪 AI, Data & Research
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,8 +72,16 @@ I am particularly interested in:
 
 ## 📚 Publications & Academic Writing
 - Scientific journal on **AI & IoT-based Soil Fertility Detection**  
-- Contributor to academic book on **Digital Image Processing**  
-- Experience in structured research documentation & proposal writing  
+- Contributor to an academic book on **Digital Image Processing**  
+- Experienced in structured **research proposals, journals, and academic documentation**  
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jokalzz/jokalzz/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -83,14 +97,12 @@ I am particularly interested in:
 
 ---
 
-## 🎯 Research Goals
-- Publish AI & IoT research in national / international journals  
-- Develop intelligent decision systems for real-world problems  
-- Collaborate on interdisciplinary AI research projects  
+## 🎯 Research Vision
+To grow as an AI researcher and technologist who develops **intelligent systems with real-world relevance**, bridging **theory, data, and implementation** to support sustainable and impactful solutions.
 
 ---
 
-## 📫 Academic Contact
+## 📫 Academic & Professional Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/jokaligis">
@@ -103,4 +115,4 @@ I am particularly interested in:
 
 ---
 
-⭐ *Research-driven development with real-world impact.*
+⭐ *Research-driven development with measurable real-world impact.*
