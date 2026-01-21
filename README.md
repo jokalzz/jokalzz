@@ -10,10 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,arduino,ipynb" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,arduino,claude" />
  </p>
 
-<img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge" position=centered />
+<p align="center"> <img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge" /> </p>
 
 
 
