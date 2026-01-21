@@ -10,6 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jokalzz&theme=tokyonight&no-frame=true&column=3" />
+ </p>
+
 
 
 ---
