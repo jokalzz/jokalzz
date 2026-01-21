@@ -10,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=jokalzz&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jokalzz&theme=tokyonight" />
-
-
+<p align="center"> <img src="https://metrics.lecoq.io/jokalzz?template=classic&isocalendar=1&languages=1&achievements=1&theme=tokyonight" />
  </p>
 
 
