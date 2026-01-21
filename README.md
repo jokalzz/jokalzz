@@ -13,6 +13,8 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,react,arduino,ipynb" />
  </p>
 
+<img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge" />
+
 
 
 ---
